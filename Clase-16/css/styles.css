@@ -6,7 +6,6 @@
 }
 
 /* Estilos para el fondo del menú */
-
 .navbar{
     background-color: black;
     position: fixed;
@@ -44,6 +43,7 @@
 }
 
 /* MeidaQuery para mostar el boton de hamburguesa en pantallas pequeñas */
+
 @media (max-width: 767px){
     .navbar-toggler{
         display: block;
